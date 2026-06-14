@@ -1,0 +1,2 @@
+No External dependencies are needed.
+its just a simple python program
